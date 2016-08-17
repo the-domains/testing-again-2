@@ -1,0 +1,28 @@
+name: testing again 2
+favicon: null
+layout_spectrum: 0.989284539828077
+typography_spectrum: 0.6759228766895831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08414645213633776
+  lightness: 0.17541056871414185
+  saturation: 0.4811949017457664
+  rhythmicContrast: 0.8302631732076406
+purpose: []
